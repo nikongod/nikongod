@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikongod
-- 👀 I’m interested in Linux, photography, and Travel
+- 👀 I’m interested in Linux, photography, and travel
 - 🌱 I’m currently learning how to work with/in Fedora Silverblue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - my username at hotmail or gmail
